@@ -1,6 +1,6 @@
 {
-  "data": "/cluster/home/schmidtn/master/wahlprak/dft-mp2-data",
-  "user": "schmidtn",
-  "output": "/cluster/home/schmidtn/master/wahlprak/dft-mp2-data",
+  "data": "/cluster/home/brandes/Schlussversuch/data",
+  "user": "brandes",
+  "output": "/cluster/home/brandes/Schlussversuch/data",
   "xtb": "/cluster/home/schmidtn/master/wahlprak/dftmp2bench/xtb-dist/bin/xtb"
 }
